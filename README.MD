@@ -10,9 +10,7 @@
 
 ## 🤩:movie_camera:  :popcorn: Layout
 
-<p align="center">
-  <img alt="Netflix" src=".github/netflix.png" width="100%">
-</p>
+                                <NETIFILIX_DIO>
 
 ## 🖖 Tecnologias
 
